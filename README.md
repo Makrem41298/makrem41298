@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **Computer Engineering student** passionate about **backend development**, **microservices**, and **modern web technologies**.  
+🎓 **Computer Engineering ** passionate about **backend development**, **microservices**, and **modern web technologies**.  
 💡 I enjoy designing secure, scalable systems and working across **web, APIs, and distributed architectures**.
 
 - 🔭 Working with **Laravel, Spring Boot, Express.js, React.js & REST APIs**
